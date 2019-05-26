@@ -1,0 +1,28 @@
+#brand{
+    color: #fff;
+}
+
+#menu-items {
+    background-color: #666;
+    border: 1px solid #000;
+}
+
+#menu-items a {
+    color: #fff;
+}
+
+#menu-items a:hover {
+    background-color: #fff;
+    color: #000;
+}
+
+h1 {
+    margin-bottom: 40px;
+}
+
+#main-div {
+    background-color: #888;
+    color: #fff;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
